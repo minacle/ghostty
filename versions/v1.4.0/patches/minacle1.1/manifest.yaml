@@ -1,0 +1,5 @@
+features:
+  horizontal-scroll:
+    name: Horizontal Scroll
+    description: |
+      Correct horizontal scroll behaviour on macOS.
